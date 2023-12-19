@@ -1,7 +1,7 @@
 # Unity 2D Side-Scroller Game
 
 ## Overview
-This is a simple Unity 2D side-scrolling game where the player can move left and right, encounter enemies, and defeat them by jumping on their heads.
+This is a Unity 2D side-scrolling game where the player can move left and right, encounter enemies, and defeat them by jumping on their heads.
 
 ## System Requirements
 - Unity Version: 2017.4
